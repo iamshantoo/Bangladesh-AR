@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Triump" size="0.100000 0.151920" />
+    <ImageTarget name="Dolil" size="0.100000 0.156010" />
+    <ImageTarget name="1972_Dhaka" size="0.100000 0.065116" />
+    <ImageTarget name="1972_London" size="0.100000 0.065116" />
+    <ImageTarget name="1971" size="0.100000 0.063993" />
+    <ImageTarget name="1970" size="0.100000 0.070726" />
+    <ImageTarget name="Oshomapto" size="0.100000 0.153448" />
+    <ImageTarget name="Noyachin" size="0.100000 0.154964" />
+    <ImageTarget name="Karagar" size="0.100000 0.153477" />
+    <ImageTarget name="12" size="0.100000 0.039836" />
+    <ImageTarget name="11" size="0.100000 0.044646" />
+    <ImageTarget name="8" size="0.100000 0.066259" />
+    <ImageTarget name="7" size="0.100000 0.066303" />
+    <ImageTarget name="6" size="0.100000 0.039015" />
+    <ImageTarget name="5" size="0.100000 0.068914" />
+    <ImageTarget name="2" size="0.100000 0.046386" />
+    <ImageTarget name="1" size="0.100000 0.087598" />
+  </Tracking>
+</QCARConfig>

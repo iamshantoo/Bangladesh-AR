@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Tiger" size="0.100000 0.068000" />
+    <ImageTarget name="Sundarbans" size="0.100000 0.068000" />
+    <ImageTarget name="RMG" size="0.100000 0.068000" />
+    <ImageTarget name="Handloom" size="0.100000 0.068000" />
+    <ImageTarget name="FIber" size="0.100000 0.068000" />
+    <ImageTarget name="Muslin" size="0.100000 0.068000" />
+    <ImageTarget name="Dhaka" size="0.100000 0.068000" />
+    <ImageTarget name="CoxsBazar" size="0.100000 0.068000" />
+    <ImageTarget name="Chittagong" size="0.100000 0.068000" />
+  </Tracking>
+</QCARConfig>
