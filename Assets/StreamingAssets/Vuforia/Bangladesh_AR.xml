@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="Tiger" size="0.100000 0.068000" />
-    <ImageTarget name="Sundarbans" size="0.100000 0.068000" />
-    <ImageTarget name="RMG" size="0.100000 0.068000" />
-    <ImageTarget name="Handloom" size="0.100000 0.068000" />
-    <ImageTarget name="FIber" size="0.100000 0.068000" />
-    <ImageTarget name="Muslin" size="0.100000 0.068000" />
-    <ImageTarget name="Dhaka" size="0.100000 0.068000" />
-    <ImageTarget name="CoxsBazar" size="0.100000 0.068000" />
-    <ImageTarget name="Chittagong" size="0.100000 0.068000" />
+    <ImageTarget name="bdxsl" size="0.100000 0.068000" />
+    <ImageTarget name="dhaka" size="0.100000 0.068000" />
+    <ImageTarget name="dhakai-muslin" size="0.100000 0.068000" />
+    <ImageTarget name="chittagong-port" size="0.100000 0.068000" />
+    <ImageTarget name="royal-bengal" size="0.100000 0.068000" />
+    <ImageTarget name="golden-fiber" size="0.100000 0.068000" />
+    <ImageTarget name="ahsan-manzil" size="0.100000 0.068000" />
+    <ImageTarget name="coxs-bazar" size="0.100000 0.068000" />
+    <ImageTarget name="mahasthangarh" size="0.100000 0.068000" />
+    <ImageTarget name="sundarbans" size="0.100000 0.068000" />
+    <ImageTarget name="national-memorial" size="0.100000 0.068000" />
   </Tracking>
 </QCARConfig>
